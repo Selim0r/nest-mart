@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Cake & Milk",
+    "items": 11,
+    "image": "https://i.ibb.co.com/nMyRqZ1Y/Figure-7.png",
+    "color": "bg-[#F2FCE4]"
+  },
+  {
+    "id": 2,
+    "title": "Organic Kiwi",
+    "items": 6,
+    "image": "https://i.ibb.co.com/gMkZwHXT/Figure-8.png",
+    "color": "bg-[#FFFCEB]"
+  },
+  {
+    "id": 3,
+    "title": "Peach",
+    "items": 6,
+    "image": "https://i.ibb.co.com/dw56Cm0p/Figure-6.png",
+    "color": "bg-[#ECFFEC]"
+  },
+  {
+    "id": 4,
+    "title": "Red Apple",
+    "items": 10,
+    "image": "https://i.ibb.co.com/RpyTJC1W/Figure-10.png",
+    "color": "bg-[#FEEFEA]"
+  },
+  {
+    "id": 5,
+    "title": "Snacks",
+    "items": 11,
+    "image": "https://i.ibb.co.com/tTzhp596/Figure-1.png",
+    "color": "bg-[#FFF3EB]"
+  },
+  {
+    "id": 6,
+    "title": "Vegetables",
+    "items": 6,
+    "image": "https://i.ibb.co.com/qLbj86kw/Figure-2.png",
+    "color": "bg-[#FFF3FF]"
+  },
+  {
+    "id": 7,
+    "title": "Strawberry",
+    "items": 10,
+    "image": "https://i.ibb.co.com/1fGZs7z0/Figure-3.png",
+    "color": "bg-[#F2FCE4]"
+  },
+  {
+    "id": 8,
+    "title": "Black Plum",
+    "items": 10,
+    "image": "https://i.ibb.co.com/jZ64ChWn/Figure-5.png",
+    "color": "bg-[#FEEFEA]"
+  },
+  {
+    "id": 9,
+    "title": "Custard Apple",
+    "items": 10,
+    "image": "https://i.ibb.co.com/fYgw8cTZ/Figure-9.png",
+    "color": "bg-[#F2FCE4]"
+  },
+  {
+    "id": 10,
+    "title": "Coffee & Tea",
+    "items": 11,
+    "image": "https://i.ibb.co.com/27cVR8KH/Figure-4.png",
+    "color": "bg-[#FEEFEA]"
+  }
+]

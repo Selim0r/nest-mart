@@ -1,16 +1,53 @@
 import React from "react";
 import logo from "/Nest.png";
 import svg from "/SVG.png";
+import { NavLink } from "react-router";
 function Navber() {
   const menu = (
     <div className="flex gap-[30px] items-center ">
-      <li>About</li>
-      <li>Shop</li>
-      <li>Mega Menu</li>
-      <li>Vendor</li>
-      <li>Blog</li>
-      <li>Pages</li>
-      <li>Contract</li>
+      <NavLink
+        to="/"
+        className={({ isActive }) =>
+          isActive ? "text-[#3BB77E] font-semibold" : "text-[#253D4E]"
+        }
+      >
+        <li>Home</li>
+      </NavLink>
+      <NavLink
+        to="/about"
+        className={({ isActive }) =>
+          isActive ? "text-[#3BB77E] font-semibold" : "text-[#253D4E]"
+        }
+      >
+        <li>About</li>
+      </NavLink>
+
+      <NavLink
+        to="/blog"
+        className={({ isActive }) =>
+          isActive ? "text-[#3BB77E] font-semibold" : "text-[#253D4E]"
+        }
+      >
+        <li>Blog</li>
+      </NavLink>
+
+      <NavLink
+        to="/contract"
+        className={({ isActive }) =>
+          isActive ? "text-[#3BB77E] font-semibold" : "text-[#253D4E]"
+        }
+      >
+        <li>Contract</li>
+      </NavLink>
+
+      <NavLink
+        to="/mega"
+        className={({ isActive }) =>
+          isActive ? "text-[#3BB77E] font-semibold" : "text-[#253D4E]"
+        }
+      >
+        <li>Mega Menu</li>
+      </NavLink>
     </div>
   );
   return (
